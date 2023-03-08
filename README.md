@@ -1,16 +1,3 @@
 # scanner
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="https://user-images.githubusercontent.com/93403100/223743798-17ff4a56-9299-42f2-8798-7b2c71064c74.jpg" width="150"/> <img src="https://user-images.githubusercontent.com/93403100/223744098-4160a856-276e-4c80-bfc6-4515e9703ec7.jpg" width="150"/>
